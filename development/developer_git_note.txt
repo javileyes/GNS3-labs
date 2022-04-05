@@ -1,0 +1,12 @@
+git config --global user.email "javier.gimenez@murciaeduca.es"
+git config --global user.name "javileyes"
+git remote add origin git@github.com:javileyes/lab-gns3-project.git
+
+#para subir cambios
+git add .
+git commit -m "second commit"
+#habrá que añadir la clave pública ssh en github para poder hacer esto:
+git push -u origin main
+
+#para actualizar
+git pull origin

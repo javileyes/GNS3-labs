@@ -1,0 +1,3 @@
+En la ventana de conexión para las BD Oracle, en el boton Edit Driver Settings, en pestaña Driver Properties añadir propiedad:
+oracle.jdbc.timezoneAsRegion false
+
