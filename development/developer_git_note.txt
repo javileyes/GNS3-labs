@@ -1,6 +1,6 @@
 git config --global user.email "javier.gimenez@murciaeduca.es"
 git config --global user.name "javileyes"
-git remote add origin git@github.com:javileyes/lab-gns3-project.git
+git remote add origin git@github.com:javileyes/GNS3-lab.git
 
 #para subir cambios
 git add .
